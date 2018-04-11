@@ -1,0 +1,18 @@
+{
+  "name": " WapplerSystems/FluxTranslationfix",
+  "description": "Translation fix fir flux",
+  "type": "typo3-cms-extension",
+  "autoload": {
+    "psr-4": {
+      "WapplerSystems\\FluxTranslationfix\\": "Classes/"
+    }
+  },
+  "require": {
+    "php": ">=7.0.0",
+    "typo3/cms": ">=7.6.13, <7.6.99|^8.4.1"
+  },
+  "replace": {
+    "flux": "self.version",
+    "typo3-ter/flux": "self.version"
+  }
+}
