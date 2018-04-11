@@ -1,5 +1,5 @@
 {
-  "name": " WapplerSystems/FluxTranslationfix",
+  "name": "wapplersystems/flux-translationfix",
   "description": "Translation fix fir flux",
   "type": "typo3-cms-extension",
   "autoload": {
